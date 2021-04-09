@@ -1,16 +1,28 @@
-### Hi there 👋
+# Seja Bem-Vindo
 
-<!--
-**Sh1nK4tsu/Sh1nK4tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Sh1nK4tsut-C&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+<p>
+        <a href="#">
+            <img alt="C" width="32px" height="30px" src="C.png">
+        </a>
+        <a href="#">
+            <img alt="HTML" width="32px" height="32px"
+                src="html.svg">
+        </a>
+        <a href="#">
+            <img alt="CSS" width="32px" height="32px" src="ccs3.svg">
+        </a>
+    </p>
+    
+### Telegram  
+    
+<p>
+    <a href="https://t.me/Sh1nK4tsu">
+        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=Sh1nK4tsu"/>
+    </a>
+</p>
