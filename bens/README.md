@@ -8,14 +8,14 @@
 
 <p>
         <a href="#">
-            <img alt="C" width="32px" height="30px" src="C.png">
+            <img alt="C" width="32px" height="30px" src="Sh1nK4tsu/assets/C.png">
         </a>
         <a href="#">
             <img alt="HTML" width="32px" height="32px"
-                src="html.svg">
+                src="Sh1nK4tsu/assets/html.svg">
         </a>
         <a href="#">
-            <img alt="CSS" width="32px" height="32px" src="ccs3.svg">
+            <img alt="CSS" width="32px" height="32px" src="Sh1nK4tsu/assets/ccs3.svg">
         </a>
     </p>
     
