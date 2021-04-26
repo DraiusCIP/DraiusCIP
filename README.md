@@ -2,9 +2,9 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sh1nK4tsut-C&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ShinKatsuo-C&style=flat-square)
 
-## Technologies
+## Tecnologias
 
 <p>
         <a href="#">
@@ -14,6 +14,9 @@
             <img alt="HTML" width="32px" height="32px"src="assets1/html.svg">
         </a>
         <a href="#">
+            <img alt="CSS" width="32px" height="32px" src="assets1/ccs3.svg">
+        </a>
+       <a href="#">
             <img alt="CSS" width="32px" height="32px" src="assets1/ccs3.svg">
         </a>
     </p>
