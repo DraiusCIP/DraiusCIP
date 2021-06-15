@@ -25,6 +25,6 @@
     
 <p>
     <a href="https://t.me/Sh1nK4tsu">
-        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=Sh1nK4tsu"/>
+        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=Sh1nKatsuo"/>
     </a>
 </p>
