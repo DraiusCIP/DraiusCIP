@@ -1,7 +1,5 @@
 # Welcome
 
-<br>
-
 ![](https://komarev.com/ghpvc/?username=ShinKatsuo-C&style=flat-square)
 
 ## Tecnologias
@@ -18,6 +16,9 @@
         </a>
        <a href="#">
             <img alt="CSS" width="29px" height="29px" src="assets1/ccs3.svg">
+        </a>
+        <a href="#">
+            <img alt="SHELL" width="29px" height="29px" src="assets1/">
         </a>
     </p>
 
