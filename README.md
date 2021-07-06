@@ -6,19 +6,19 @@
 
 <p>
         <a href="#">
-            <img alt="C" width="32px" height="32px" src="assets1/C.png">
+            <img alt="" width="32px" height="32px" src="assets1/C.png">
         </a>
         <a href="#">
-            <img alt="MYSQL" width="32px" height="32px"src="assets1/shell.png">
+            <img alt="" width="32px" height="32px"src="assets1/shell.png">
         </a>
         <a href="#">
-            <img alt="HTML" width="29px" height="29px" src="assets1/mysql_PNG19.png">
+            <img alt="" width="29px" height="29px" src="assets1/mysql_PNG19.png">
         </a>
        <a href="#">
-            <img alt="CSS" width="29px" height="29px" src="assets1/html.svg">
+            <img alt="" width="29px" height="29px" src="assets1/html.svg">
         </a>
         <a href="#">
-            <img alt="SHELL" width="29px" height="29px" src="assets1/ccs3.svg">
+            <img alt="" width="29px" height="29px" src="assets1/ccs3.svg">
         </a>
     </p>
 
