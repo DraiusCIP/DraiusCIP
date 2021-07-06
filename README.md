@@ -15,10 +15,10 @@
             <img alt="" width="29px" height="29px" src="assets1/mysql_PNG19.png">
         </a>
        <a href="#">
-            <img alt="" width="29px" height="29px" src="assets1/html.svg">
+            <img alt="" width="29px" height="29px" src="assets1/html.png">
         </a>
         <a href="#">
-            <img alt="" width="29px" height="29px" src="assets1/ccs3.svg">
+            <img alt="" width="29px" height="29px" src="assets1/ccs.png">
         </a>
     </p>
 
