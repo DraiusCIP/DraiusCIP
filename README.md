@@ -8,16 +8,16 @@
 
 <p>
         <a href="#">
-            <img alt="C" width="32px" height="30px" src="assets1/html.svg">
+            <img alt="HTML" width="28px" height="28px" src="assets1/html.svg">
         </a>
         <a href="#">
-            <img alt="HTML" width="32px" height="32px"src="assets1/ccs3.svg">
+            <img alt="CSS" width="28px" height="28px"src="assets1/ccs3.svg">
         </a>
         <a href="#">
-            <img alt="CSS" width="32px" height="32px" src="assets1/C.png">
+            <img alt="C" width="32px" height="32px" src="assets1/C.png">
         </a>
        <a href="#">
-            <img alt="CSS" width="32px" height="32px" src="assets1/mysql_PNG19.png">
+            <img alt="Mysql" width="32px" height="32px" src="assets1/mysql_PNG19.png">
         </a>
     </p>
     
