@@ -8,10 +8,10 @@
 
 <p>
         <a href="#">
-            <img alt="HTML" width="28px" height="28px" src="assets1/html.svg">
+            <img alt="HTML" width="29px" height="29px" src="assets1/html.svg">
         </a>
         <a href="#">
-            <img alt="CSS" width="28px" height="28px"src="assets1/ccs3.svg">
+            <img alt="CSS" width="29px" height="29px"src="assets1/ccs3.svg">
         </a>
         <a href="#">
             <img alt="C" width="32px" height="32px" src="assets1/C.png">
