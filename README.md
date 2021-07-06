@@ -9,7 +9,7 @@
             <img alt="C" width="32px" height="32px" src="assets1/C.png">
         </a>
         <a href="#">
-            <img alt="MYSQL" width="32px" height="32px"src="assets1/">
+            <img alt="MYSQL" width="32px" height="32px"src="assets1/Shell.jpg">
         </a>
         <a href="#">
             <img alt="HTML" width="29px" height="29px" src="assets1/mysql_PNG19.png">
