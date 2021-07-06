@@ -20,10 +20,6 @@
             <img alt="CSS" width="29px" height="29px" src="assets1/ccs3.svg">
         </a>
     </p>
-    
-    <br>
-
-![](https://komarev.com/ghpvc/?username=ShinKatsuo&style=flat-square)
 
 <hr>
 
