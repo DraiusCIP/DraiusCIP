@@ -24,8 +24,8 @@
 <hr>
 
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=ShinKatsuo&theme=dark&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinKatsuo&hide=html&layout=compact&theme=dark">
+    <img alt="Jaime's GitHub Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=ShinKatsuo&theme=dark&show_icons=true">
+    <img alt="Most Used Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinKatsuo&hide=html&layout=compact&theme=dark">
 </p>
     
 ### Telegram  
