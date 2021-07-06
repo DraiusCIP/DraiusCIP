@@ -15,7 +15,7 @@
             <img alt="" width="29px" height="29px" src="assets1/mysql_PNG19.png">
         </a>
        <a href="#">
-            <img alt="" width="24px" height="29px" src="assets1/html.png">
+            <img alt="" width="26px" height="28px" src="assets1/html.png">
         </a>
         <a href="#">
             <img alt="" width="29px" height="29px" src="assets1/ccs.png">
