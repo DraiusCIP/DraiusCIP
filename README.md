@@ -18,7 +18,7 @@
             <img alt="" width="25px" height="28px" src="assets1/html.png">
         </a>
         <a href="#">
-            <img alt="" width="29px" height="29px" src="assets1/css.png">
+            <img alt="" width="29px" height="30px" src="assets1/css.png">
         </a>
     </p>
 
