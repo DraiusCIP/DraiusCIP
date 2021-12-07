@@ -1,6 +1,6 @@
 # Welcome
 
-![](https://komarev.com/ghpvc/?username=ShinKatsuo-C&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Sh1nKatsuo-C&style=flat-square)
 
 ## Tecnologias
 
