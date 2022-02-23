@@ -25,14 +25,14 @@
 <hr>
 
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=ShinKatsuo&theme=dark&show_icons=true">
-    <img alt="Most Used Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinKatsuo&hide=html&layout=compact&theme=dark">
+    <img alt="Jaime's GitHub Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=DraiusCIP&theme=dark&show_icons=true">
+    <img alt="Most Used Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraiusCIP&hide=html&layout=compact&theme=dark">
 </p>
     
 ### Telegram  
     
 <p>
-    <a href="https://t.me/Sh1nKatsuo">
-        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=Sh1nKatsuo"/>
+    <a href="https://t.me/DraiusCIP">
+        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=DraiusCIP"/>
     </a>
 </p>
